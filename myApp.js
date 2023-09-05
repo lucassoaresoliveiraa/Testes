@@ -1,7 +1,8 @@
 let express = require('express');
 let app = express();
 
-console.log("Hello Word")
+var msg = "hello word"
+console.log(msg)
 
 
 
